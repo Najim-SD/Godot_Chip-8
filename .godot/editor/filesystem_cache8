@@ -1,0 +1,20 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1704648111
+Chip8Emu.gd::GDScript::-1::1704202825::0::1::::<>Node2D<>::
+chip_8_emu.tscn::PackedScene::393263614352470861::1704202826::0::1::::<><>::res://Chip8Emu.gd<>res://chip_8_screen_color.gdshader<>uid://c4ilu64unpf1l::::res://icon.svg
+chip_8_screen_color.gdshader::Shader::-1::1704203568::0::1::::<><>::
+icon.svg::CompressedTexture2D::6825538131670008091::1689590842::1689655118::1::::<><>::
+new_script.gd::GDScript::-1::1689690548::0::1::::<>Node<>::
+::res://ROMS/::1689816314
+15 Puzzle [Roger Ivie].txt::TextFile::-1::1503599575::0::1::::<><>::
+Astro Dodge [Revival Studios, 2008].txt::TextFile::-1::1503599575::0::1::::<><>::
+Clock Program [Bill Fisher, 1981].txt::TextFile::-1::1503599575::0::1::::<><>::
+Delay Timer Test [Matthew Mikolay, 2010].txt::TextFile::-1::1503599575::0::1::::<><>::
+Particle Demo [zeroZshadow, 2008].txt::TextFile::-1::1503599575::0::1::::<><>::
+Pong [Paul Vervalin, 1990].txt::TextFile::-1::1503599575::0::1::::<><>::
+Space Invaders [David Winter].txt::TextFile::-1::1503599575::0::1::::<><>::
+Tank.txt::TextFile::-1::1503599575::0::1::::<><>::
+Tetris [Fran Dachille, 1991].txt::TextFile::-1::1503599575::0::1::::<><>::
+Trip8 Demo (2008) [Revival Studios].txt::TextFile::-1::1503599575::0::1::::<><>::
+Worm V4 [RB-Revival Studios, 2007].txt::TextFile::-1::1503599575::0::1::::<><>::
+Zero Demo [zeroZshadow, 2007].txt::TextFile::-1::1503599575::0::1::::<><>::
